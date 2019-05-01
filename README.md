@@ -1,5 +1,5 @@
-# php-hermitage-quest-backend
-Hermitage Quest VK Bot PHP Backend
+# What's this?
+This is a php-drvien backend to VK-oriented quest engine
 
 # Idea
 Our goal is to make museums of Saint-P more interesting and interactive by using VK-Bot platform to realize this
